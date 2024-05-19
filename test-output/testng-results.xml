@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-19T13:17:28 BST" name="Default Suite" finished-at="2024-05-19T13:17:38 BST" duration-ms="9935">
+    <groups>
+    </groups>
+    <test started-at="2024-05-19T13:17:28 BST" name="Demo_task" finished-at="2024-05-19T13:17:38 BST" duration-ms="9935">
+      <class name="com.demo_task.testsuite.ClothingPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demo_task.testsuite.ClothingPageTest@223f3642]" started-at="2024-05-19T13:17:28 BST" name="setUp" finished-at="2024-05-19T13:17:32 BST" duration-ms="3697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="inIt()[pri:0, instance:com.demo_task.testsuite.ClothingPageTest@223f3642]" started-at="2024-05-19T13:17:32 BST" name="inIt" finished-at="2024-05-19T13:17:32 BST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method signature="verifyNavigateToClothingPage()[pri:0, instance:com.demo_task.testsuite.ClothingPageTest@223f3642]" started-at="2024-05-19T13:17:32 BST" name="verifyNavigateToClothingPage" finished-at="2024-05-19T13:17:38 BST" duration-ms="5972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateToClothingPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demo_task.testsuite.ClothingPageTest@223f3642]" started-at="2024-05-19T13:17:38 BST" name="tearDown" finished-at="2024-05-19T13:17:38 BST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo_task.testsuite.ClothingPageTest -->
+    </test> <!-- Demo_task -->
+  </suite> <!-- Default Suite -->
+</testng-results>
